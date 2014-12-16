@@ -1,12 +1,11 @@
 
 @media (max-width:600px) {
    #image1.image {
-      background-image: url('https://farm6.staticflickr.com/5609/15157363513_9904b4e969_m_d.jpg')
+      background-image: https://farm6.staticflickr.com/5609/15157363513_9904b4e969_m_d.jpg
    }
 }
 @media (min-width:601px) {
    #image1.image {
-	  height: 20px;
-      background-image: url('https://farm6.staticflickr.com/5609/15157363513_b69bd9d413_k_d.jpg')
+      background-image: https://farm6.staticflickr.com/5609/15157363513_b69bd9d413_k_d.jpg;
    }
 }
