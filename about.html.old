@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>morning dawn photography - about</title>
+	<meta charset="utf-8">
+	<meta name="author" content="pixelhint.com">
+	<meta name="description" content="Morning Dawn photography of Minneapolis, Minnesota"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+	<link rel="stylesheet" type="text/css" href="css/reset.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+    <script type="text/javascript" src="js/map.js"></script>
+    <script type="text/javascript" src="js/main.js"></script>
+
+</head>
+<body>
+
+	<header>
+		<div class="logo">
+			<a href="index.html"><img src="img/logo.png" title="mdp" alt="mdp"/></a>
+		</div><!-- end logo -->
+
+		<div id="menu_icon"></div>
+		<nav>
+			<ul>
+				<li><a href="index.html" class="selected">home</a></li>
+				<li><a href="about.html">about</a></li>
+				<li><a href="#">blog</a></li>
+				<li><a href="contact.html">contact</a></li>
+			</ul>
+		</nav><!-- end navigation menu -->
+
+		</div ><!-- end footer -->
+	</header><!-- end header -->
+	<section class="main clearfix">
+
+		<section class="wrapper">
+			<div class="content">
+				<h1>about</h1>
+                <h2> <strong>taylor dawn nelson</strong> </h2>
+                <h3>morning dawn photography</h3>
+                <div class="display">
+                <p>
+                BIO BIO BIO BIO BIO 
+                asd <br>
+                asdf <br>
+                adf <br>
+                asd <br>
+                fasdf /n
+                </p>
+                </div>
+			</div><!-- end content -->
+		</section>
+	</section><!-- end main -->
+	
+</body>
+</html>
