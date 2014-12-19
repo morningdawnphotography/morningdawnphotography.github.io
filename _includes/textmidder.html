@@ -8,5 +8,4 @@
 
 		<section class="wrapper">
 			<div class="content">
-				<p> {{ page.description }} </p>
-				<p> {{ page.date }} </p>
+				<p> {{ page.description }} <br> {{ page.date | date: "%-m/%-d/%y"}} </p>
