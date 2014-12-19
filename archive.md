@@ -4,7 +4,7 @@ title: archive
 
 ---
 <style> ul {
-	margin: 0;
+	-webkit-margin-before: 0;
 } </style>
 
 
