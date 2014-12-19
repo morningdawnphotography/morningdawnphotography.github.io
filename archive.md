@@ -4,12 +4,12 @@ title: archive
 
 ---
 
-<style> p {
+<style> .content p {
 	font-size: 18px;
 	line-height: 36px;
 	margin-bottom: 3px;
 } 
-ul {
+.content ul {
 	-webkit-margin-before: 0;
 	-webkit-margin-after: 0;
 	-webkit-padding-start: 0px;
