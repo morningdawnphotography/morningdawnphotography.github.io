@@ -5,6 +5,8 @@ title: archive
 ---
 <style> ul {
 	-webkit-margin-before: 0;
+	-webkit-margin-after: 0;
+	-webkit-padding-start: 0;
 } </style>
 
 
