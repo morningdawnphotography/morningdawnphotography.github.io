@@ -3,9 +3,9 @@ layout: imagepost
 title: archive
 
 ---
-ul {
-	margin: 0em;
-}
+<style> ul {
+	margin: 0;
+} </style>
 
 
 {% for post in site.posts %}
