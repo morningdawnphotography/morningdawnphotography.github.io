@@ -3,10 +3,10 @@ layout: imagepost
 title: archive
 
 ---
-<style> ul {
-	-webkit-margin-before: 0;
-	-webkit-margin-after: 0;
-	-webkit-padding-start: 0;
+<style> p {
+	font-size: 18px;
+	line-height: 36px;
+	margin-bottom: 3px;
 } </style>
 
 
