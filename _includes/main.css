@@ -23,7 +23,11 @@
 
 
 /*  Fonts  */
+
 @font-face {
+	font-family: 'Raleway', sans-serif;
+}
+/*@font-face {
     font-family: 'raleway-regular';
     src: url('../fonts/raleway-regular.eot');
     src: url('../fonts/raleway-regular.eot?#iefix') format('embedded-opentype'),
@@ -59,7 +63,7 @@
     font-weight: normal;
     font-style: normal;
 
-}
+}	*/
 
 
 
