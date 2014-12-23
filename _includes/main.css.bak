@@ -60,6 +60,15 @@ body{
     margin: 0 auto;
 }
 
+header ul.social li a,
+.main .work a .caption,
+header nav ul li a{
+    transition:all .1s linear;
+    -webkit-transition:all .1s linear;
+    -moz-transition:all .1s linear;
+    -o-transition:all .1s linear;
+}
+
 h1, h2, h3, h4, h5 ,h6{
     color: #4b4848;
     font-family: "raleway-regular", arial;
@@ -143,6 +152,64 @@ h5, h6          { font-weight: bolder }
         bottom: 50px;
     }
 
+    header ul.social{
+        list-style: none;
+        margin-bottom: 5px;
+    }
+
+    header ul.social li{
+        display: block;
+        float: left;
+        position: relative;
+        margin: 0 15px 15px 0;
+    }
+
+
+    header ul.social li a{
+        display: block;
+        width: 30px;
+        height: 30px;
+        background: url('../img/sm.png') no-repeat;
+        background-position: 0 0;
+    }
+
+
+    header ul.social li a:hover{
+        background: url('../img/sm_hover.png') no-repeat;
+    }
+
+
+
+    header ul.social li a.fb,
+    header ul.social li a.fb:hover{
+        background-position: 0 0;
+    }
+
+
+    header ul.social li a.google,
+    header ul.social li a.google:hover{
+        background-position: -31px 0;
+    }
+
+    header ul.social li a.behance,
+    header ul.social li a.behance:hover{
+        background-position: -62px 0;
+    }
+
+    header ul.social li a.twitter,
+    header ul.social li a.twitter:hover{
+        background-position: -93px 0;
+    }
+
+    header ul.social li a.dribble,
+    header ul.social li a.dribble:hover{
+        background-position: -124px 0;
+    }
+
+    header ul.social li a.rss,
+    header ul.social li a.rss:hover{
+        background-position: -155px 0;
+    }
 
     header .rights p{
         color: #454545;
@@ -467,6 +534,31 @@ h5, h6          { font-weight: bolder }
 
 
 
+/*  Contact page map  */
+#map .map_adresse{
+    font-family: 'raleway-regular', arial;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+
+#map .map_address,
+#map .map_tel{
+    padding: 5px;
+}
+
+#map .map_address .address,
+#map .map_tel .tel{
+    font-family: 'raleway-bold', arial;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
 /*  Tooltip  */
 .tooltip{
     display: block;
@@ -498,6 +590,12 @@ h5, h6          { font-weight: bolder }
     left: 50%;
     margin-left: -3px;
 }
+
+
+
+
+
+
 
 /*  Responsive code  */
 @media (max-width:1100px){
@@ -558,6 +656,9 @@ h5, h6          { font-weight: bolder }
         width: 100%;
         position: relative;
         padding-left: 0;
+    }
+    #map{
+        margin: 0!important;
     }
 	
 	.main .display{
