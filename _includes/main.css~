@@ -349,6 +349,12 @@ h5, h6          { font-weight: bolder }
     overflow: hidden;
     display: block;
     position: relative;
+    background: url('../img/header.jpg') no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-position: 50% 50%;
 }
 
 .work_nav{

@@ -1,0 +1,7 @@
+		<section class="top" style="
+				background: url({{ page.header }}) no-repeat;
+				background-size: cover;
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-position: 50% 50%;">

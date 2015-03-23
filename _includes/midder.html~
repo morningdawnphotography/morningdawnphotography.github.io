@@ -5,7 +5,7 @@
 			{% if page.head800  %} {{ page.head800  }}  800w,  {% endif %}
 			{% if page.head1024 %} {{ page.head1024 }}  1024w, {% endif %}
 			{% if page.head1600 %} {{ page.head1600 }}  1600w, {% endif %}
-			{% if page.head2048 %} {{ page.head2048 }}  2048w  {% endif %}"
+			{% if page.head2048 %	} {{ page.head2048 }}  2048w  {% endif %}"
 			{% endif %}
 			class="header" alt=""/>
 			<div class="wrapper content_header clearfix">

@@ -1,0 +1,8 @@
+		<div class="hero">
+			<img src="{{ include.image }}" class="media" alt=""/>
+				<div class="caption">
+					<div class="hero_title">
+						<h1>{{ include.caption }}</h1>
+					</div>
+				</div>
+		</div>

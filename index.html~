@@ -6,9 +6,9 @@ description: main
 
 {% include header.html %}
 
-{% include frontblock.html link="color/" image="https://farm8.staticflickr.com/7536/15143152853_3247794fd5_z_d.jpg" caption="color" %}
-
 {% include frontblock.html link="tracy/" image="https://farm6.staticflickr.com/5609/15157363513_9904b4e969_z_d.jpg" caption="tracy" %}
+
+{% include frontblock.html link="color/" image="https://farm8.staticflickr.com/7536/15143152853_3247794fd5_z_d.jpg" caption="color" %}
 
 {% include frontblock.html link="aritony/" image="https://farm4.staticflickr.com/3918/14735906089_3c76ac8a4b_z_d.jpg" caption="aritony" %}
 

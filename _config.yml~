@@ -25,4 +25,4 @@ defaults:
   scope: 
    path: ""
   values:	
-   head640: "https://farm8.staticflickr.com/7536/15143152853_3247794fd5_b.jpg"
+   head640: "/img/header.jpg"

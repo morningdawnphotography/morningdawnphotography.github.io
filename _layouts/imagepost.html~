@@ -6,6 +6,7 @@
 
 {% include midder.html %}
 
+
 {{ content }}
 
 {% include footer.html %}

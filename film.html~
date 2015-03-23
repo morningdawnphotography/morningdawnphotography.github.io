@@ -1,0 +1,11 @@
+---
+layout: imagepost
+title: film
+description: photos on film
+scale: false
+
+---
+
+{% include landscape.html title="title 1" description="Description 1" flickr="https://www.flickr.com/photos/83029502@N05/14197349579" img800="https://farm6.staticflickr.com/5485/14197349579_2168063e29_k_d.jpg" img1024="https://farm6.staticflickr.com/5485/14197349579_2168063e29_k_d.jpg" img1600="https://farm6.staticflickr.com/5485/14197349579_2168063e29_k_d.jpg" img2048="https://farm6.staticflickr.com/5485/14197349579_2168063e29_k_d.jpg" %}
+
+{% include portrait.html title="title 2" description="Description 2" flickr="https://www.flickr.com/photos/83029502@N05/14360902006" img800="https://farm4.staticflickr.com/3887/14360902006_01c94bd98a_k_d.jpg" img1024="https://farm4.staticflickr.com/3887/14360902006_01c94bd98a_k_d.jpg" img1600="https://farm4.staticflickr.com/3887/14360902006_01c94bd98a_k_d.jpg" img2048="https://farm4.staticflickr.com/3887/14360902006_01c94bd98a_k_d.jpg" %}
